@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">WallPear</string>
+    <string name="favorites_menu_item">Favorites</string>
+    <string name="current_rotation_menu_item">Current rotation</string>
+    <string name="sources_menu_item">Sources</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="nav_open">Navigation bar open</string>
+    <string name="nav_close">Navigation bar close</string>
 </resources>
